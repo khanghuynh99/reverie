@@ -1,12 +1,6 @@
-# Project Title
-
-Reverie 
-
-## Description
+# Reverie
 
 a small little project for everyone to add quotes
-
-## Getting Started
 
 ### Dependencies
 
