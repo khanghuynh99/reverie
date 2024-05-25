@@ -11,13 +11,11 @@ a small little project for everyone to add quotes
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
+```message me on facebook 
 ```
 
 ## Authors
-just rn, submit a PR!!
+just me right now, submit a PR!!
 
 ## Version History
 
