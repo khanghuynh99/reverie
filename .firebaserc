@@ -1,5 +1,16 @@
 {
   "projects": {
     "default": "reverie-b6c71"
-  }
+  },
+  "targets": {
+    "reverie-b6c71": {
+      "hosting": {
+        "app": [
+          "reverie"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
